@@ -1,0 +1,48 @@
+{
+  "events": [
+    {
+      "eventName": "School Function",
+      "eventType": "School",
+      "eventStartDate": "2022-10-14",
+      "eventEndDate": "2022-10-14",
+      "eventDescription": "Freshers Party",
+      "eventHandle": "mr tester",
+      "eventOrgnization": "Alpha",
+      "totalNoofSubEvents": 12,
+      "id": 1
+    },
+    {
+      "eventName": "Diwali festiwal",
+      "eventType": "Genral",
+      "eventStartDate": "2022-10-23",
+      "eventEndDate": "2022-10-26",
+      "eventDescription": "Genral Festiwal",
+      "eventHandle": "Mr. xyz",
+      "eventOrgnization": "abc",
+      "totalNoofSubEvents": 22,
+      "id": 2
+    },
+    {
+      "eventName": "Happy Day",
+      "eventType": "music",
+      "eventStartDate": "2022-10-14",
+      "eventEndDate": "2022-10-26",
+      "eventDescription": "kkjkjk",
+      "eventHandle": "jjjj",
+      "eventOrgnization": "kikkk",
+      "totalNoofSubEvents": 221,
+      "id": 3
+    },
+    {
+      "eventName": "Indian Army Day",
+      "eventType": "Genral",
+      "eventStartDate": "2022-10-14",
+      "eventEndDate": "2022-10-19",
+      "eventDescription": "Indian Army ............",
+      "eventHandle": "Army Camp 1",
+      "eventOrgnization": "indian army force",
+      "totalNoofSubEvents": 2,
+      "id": 4
+    }
+  ]
+}
